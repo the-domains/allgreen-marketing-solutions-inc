@@ -1,16 +1,16 @@
-typography_spectrum: 0.4230689194519073
+typography_spectrum: 0.5713867356535047
 color:
-  brandStrength: 0.01885386905632913
-  lightness: 0.8846180357504636
-  saturation: 0.578232605708763
-  rhythmicContrast: 0.7629293412901461
+  brandStrength: 0.034225156996399164
+  lightness: 0.9672048888169229
+  saturation: 0.5100797282066196
+  rhythmicContrast: 0.842632855521515
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.5581387078855187
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+layout_spectrum: 0.15166862960904837
 name: AllGreen Marketing Solutions Inc.
 title: What is the problems you want to solve today?
 description: Finding Answers
