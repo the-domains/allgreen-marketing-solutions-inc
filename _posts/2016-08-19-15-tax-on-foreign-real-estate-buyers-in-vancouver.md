@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-19T08:18:36.401Z'
+datePublished: '2016-08-19T08:19:11.787Z'
 sourcePath: _posts/2016-08-19-15-tax-on-foreign-real-estate-buyers-in-vancouver.md
 author: []
 via: {}
-dateModified: '2016-08-19T08:18:35.432Z'
+dateModified: '2016-08-19T08:19:11.153Z'
 title: 15% Tax on Foreign Real Estate buyers in Vancouver
 publisher:
   name: Peter Leung
 description: >-
   Question: How will the 15% property impact the real estate prices in Greater
   Vancouver? 
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
