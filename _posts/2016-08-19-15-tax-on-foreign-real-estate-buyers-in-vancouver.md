@@ -1,14 +1,14 @@
 ---
+datePublished: '2016-08-19T08:48:44.356Z'
+sourcePath: _posts/2016-08-19-15-tax-on-foreign-real-estate-buyers-in-vancouver.md
+author: []
+via: {}
+dateModified: '2016-08-19T08:48:43.842Z'
+title: 15% Tax on Foreign Real Estate buyers in Vancouver
+publisher: {}
 description: >-
   Question: How will the 15% property impact the real estate prices in Greater
   Vancouver?
-dateModified: '2016-08-19T08:48:04.233Z'
-datePublished: '2016-08-19T08:48:04.813Z'
-title: 15% Tax on Foreign Real Estate buyers in Vancouver
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-19-15-tax-on-foreign-real-estate-buyers-in-vancouver.md
 starred: true
 inFeed: true
 hasPage: false
@@ -16,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40b323ce-4a6e-4e59-b3cb-6f78df200671.jpg)
+![Richmond's latest community plan by Townline](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40b323ce-4a6e-4e59-b3cb-6f78df200671.jpg)
 
 # 15% Tax on Foreign Real Estate buyers in Vancouver
 
