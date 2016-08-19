@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T08:48:44.356Z'
+datePublished: '2016-08-19T08:51:04.556Z'
 sourcePath: _posts/2016-08-19-15-tax-on-foreign-real-estate-buyers-in-vancouver.md
 author: []
 via: {}
-dateModified: '2016-08-19T08:48:43.842Z'
+dateModified: '2016-08-19T08:51:00.465Z'
 title: 15% Tax on Foreign Real Estate buyers in Vancouver
 publisher: {}
 description: >-
